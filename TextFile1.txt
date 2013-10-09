@@ -1,2 +1,2 @@
-Branch 1 makes a change
+Branch 1 makes a change master change
 
